@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Dawei Ma's github stats](https://github-readme-stats.vercel.app/api?username=madawei2699)](https://www.bmpi.dev)
 
 <!--
 **madawei2699/madawei2699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
