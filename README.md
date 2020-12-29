@@ -1,4 +1,8 @@
-[![Dawei Ma's github stats](https://github-readme-stats.vercel.app/api?username=madawei2699)](https://www.bmpi.dev)
+[![Dawei Ma's github stats](https://github-readme-stats.vercel.app/api?username=madawei2699&count_private=true&show_icons=true)](https://www.bmpi.dev)
+
+[![Dawei Ma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=madawei2699)](https://www.bmpi.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madawei2699)](https://www.bmpi.dev)
 
 <!--
 **madawei2699/madawei2699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
