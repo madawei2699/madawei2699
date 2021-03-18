@@ -1,3 +1,11 @@
+:smiley: ` ` I am a developer from xi'an. 
+
+✍️  ` ` I write in [bmpi.dev](https://www.bmpi.dev) and manages a [ETF portfolio](https://www.bmpi.dev/categories/%E8%A2%AB%E5%8A%A8%E6%94%B6%E5%85%A5%E6%8A%95%E8%B5%84%E7%BB%84%E5%90%88/) which has a [3D model](https://github.com/madawei2699/bmpi.dev/blob/master/portfolio/bmpi-portfolio-2018-2021.STL).
+
+📖  ` ` My annual summary posts:
+
+* [2020](https://www.bmpi.dev/self/annual-summary/2020/)
+
 [![Dawei Ma's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=madawei2699&count_private=true&show_icons=true)](https://www.bmpi.dev)
 
 <!--
