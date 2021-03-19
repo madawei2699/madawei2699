@@ -4,7 +4,7 @@
 
 :pencil: ` ` I write in [BMPI.dev](https://www.bmpi.dev).
 
-:chart_with_upwards_trend: I manages a [ETF portfolio](https://www.bmpi.dev/categories/%E8%A2%AB%E5%8A%A8%E6%94%B6%E5%85%A5%E6%8A%95%E8%B5%84%E7%BB%84%E5%90%88/) which has a [3D model](https://github.com/madawei2699/bmpi.dev/blob/master/portfolio/bmpi-portfolio-2018-2021.STL).
+:chart_with_upwards_trend: ` ` I manages a [ETF portfolio](https://www.bmpi.dev/categories/%E8%A2%AB%E5%8A%A8%E6%94%B6%E5%85%A5%E6%8A%95%E8%B5%84%E7%BB%84%E5%90%88/) which has a [3D model](https://github.com/madawei2699/bmpi.dev/blob/master/portfolio/bmpi-portfolio-2018-2021.STL).
 
 :books: ` ` My annual summary posts:
 
