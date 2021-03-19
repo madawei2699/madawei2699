@@ -1,6 +1,6 @@
 :smiley: ` ` I am a developer from [Xi'an](https://en.wikipedia.org/wiki/Xi%27an).
 
-:dart: ` ` My goal is to build my passive income by developing, aka the [BMPI.dev](https://www.bmpi.dev).
+:dart: ` ` My goal is to `build my passive income by developing`, aka the [BMPI.dev](https://www.bmpi.dev).
 
 :pencil: ` ` I write in [BMPI.dev](https://www.bmpi.dev).
 
