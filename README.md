@@ -1,8 +1,12 @@
-:smiley: ` ` I am a developer from xi'an. 
+:smiley: ` ` I am a developer from [Xi'an](https://en.wikipedia.org/wiki/Xi%27an).
 
-✍️  ` ` I write in [bmpi.dev](https://www.bmpi.dev) and manages a [ETF portfolio](https://www.bmpi.dev/categories/%E8%A2%AB%E5%8A%A8%E6%94%B6%E5%85%A5%E6%8A%95%E8%B5%84%E7%BB%84%E5%90%88/) which has a [3D model](https://github.com/madawei2699/bmpi.dev/blob/master/portfolio/bmpi-portfolio-2018-2021.STL).
+:dart: ` ` My goal is to build my passive income by tech, aka the [BMPI.dev](https://www.bmpi.dev).
 
-📖  ` ` My annual summary posts:
+:pencil: ` ` I write in [BMPI.dev](https://www.bmpi.dev).
+
+:chart_with_upwards_trend: I manages a [ETF portfolio](https://www.bmpi.dev/categories/%E8%A2%AB%E5%8A%A8%E6%94%B6%E5%85%A5%E6%8A%95%E8%B5%84%E7%BB%84%E5%90%88/) which has a [3D model](https://github.com/madawei2699/bmpi.dev/blob/master/portfolio/bmpi-portfolio-2018-2021.STL).
+
+:books: ` ` My annual summary posts:
 
 * [2020](https://www.bmpi.dev/self/annual-summary/2020/)
 
