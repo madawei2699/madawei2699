@@ -2,6 +2,8 @@
 
 :dart: ` ` My goal is to `build my passive income by developing`, aka the [BMPI.dev](https://www.bmpi.dev).
 
+:eyes: ` ` I have a [dashboard](https://datastudio.google.com/u/0/reporting/6c3c6d3d-cd2f-4f8c-85e6-c06d672c445b/page/MnJzB) for monitoring my blog & social data.
+
 :pencil: ` ` I write a lot in [BMPI.dev](https://www.bmpi.dev).
 
 :chart_with_upwards_trend: ` ` I manages a [ETF portfolio](https://www.bmpi.dev/categories/%E8%A2%AB%E5%8A%A8%E6%94%B6%E5%85%A5%E6%8A%95%E8%B5%84%E7%BB%84%E5%90%88/) which has a [3D model](https://github.com/madawei2699/bmpi.dev/blob/master/portfolio/bmpi-portfolio-2018-2021.STL).
