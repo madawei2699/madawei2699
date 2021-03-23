@@ -11,6 +11,8 @@
 [![](https://img.shields.io/badge/-CPC-%23000000?style=flat&logo=telegram&logoColor=ffffff)](https://t.me/web_cpc)
 [![](https://img.shields.io/badge/-BMPI-%23000000?style=flat&logo=telegram&logoColor=ffffff)](https://t.me/bmpi365)
 [![](https://img.shields.io/badge/-I365-%23000000?style=flat&logo=telegram&logoColor=ffffff)](https://t.me/improve365)
+[![](https://img.shields.io/badge/dynamic/json?label=BMPI.dev%20PV&query=%24.count&url=https%3A%2F%2Fapi.bmpi.dev%2Fpage-views%2Fbmpi-dev-all-page-views%2F
+)](https://www.bmpi.dev)
 
 :smiley: ` ` I am a developer from [Xi'an](https://en.wikipedia.org/wiki/Xi%27an).
 
