@@ -28,7 +28,7 @@
 
 * [2020](https://www.bmpi.dev/self/annual-summary/2020/)
 
-📕 Latest Blog Posts
+:scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [我的人生管理系统](https://www.bmpi.dev/self/life-in-plain-text/)
 - [重新思考估值策略 # 组合月报(202102)](https://www.bmpi.dev/money/passive-income-protfolio/202102/)
