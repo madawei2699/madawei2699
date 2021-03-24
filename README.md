@@ -74,6 +74,7 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![IDEA](https://img.shields.io/badge/-IDEA-%23000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=%23ffffff)
+![Vim](https://img.shields.io/badge/-Vim-%23019733?style=flat-square&logo=vim&logoColor=%23ffffff)
 ![Chrome](https://img.shields.io/badge/-Chrome-%234285F4?style=flat-square&logo=google-chrome&logoColor=%23ffffff)
 
 ![Google SEO](https://img.shields.io/badge/-Google%20SEO-%234285F4?style=flat-square&logo=google&logoColor=ffffff)
