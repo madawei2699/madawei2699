@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Dawei Ma
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Dawei Ma 
 
 [![](https://img.shields.io/badge/--%23000000?style=flat&logo=github&logoColor=ffffff)](https://github.com/madawei2699)
 [![](https://img.shields.io/badge/--%23000000?style=flat&logo=wechat&logoColor=ffffff)](https://img.bmpi.dev/755b406f-43ae-e382-e13c-547116d3e7d5.png)
@@ -27,6 +27,10 @@
 :books: ` ` My annual summary posts:
 
 * [2020](https://www.bmpi.dev/self/annual-summary/2020/)
+
+📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
