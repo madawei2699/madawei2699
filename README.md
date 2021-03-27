@@ -32,9 +32,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [我的人生管理系统](https://www.bmpi.dev/self/life-in-plain-text/)
 - [重新思考估值策略 # 组合月报(202102)](https://www.bmpi.dev/money/passive-income-protfolio/202102/)
-- [Adventures in Serverless Application Development](https://www.bmpi.dev/en/dev/guide-to-serverless/)
 - [当别人的股票基金上涨时 # 组合月报(202101)](https://www.bmpi.dev/money/passive-income-protfolio/202101/)
 - [基于Serverless实现静态博客访问统计功能](https://www.bmpi.dev/dev/pulumi-aws-serverless-hugo-site-vists/)
+- [构建终身学习体系进行自我提升](https://www.bmpi.dev/self/build-personal-knowledge-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
