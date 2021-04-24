@@ -30,11 +30,11 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [我的个人项目技术栈](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
-- [长期投资之难 # 组合月报(202103)](https://www.bmpi.dev/money/passive-income-protfolio/202103/)
-- [我的人生管理系统](https://www.bmpi.dev/self/life-in-plain-text/)
-- [重新思考估值策略 # 组合月报(202102)](https://www.bmpi.dev/money/passive-income-protfolio/202102/)
 - [Adventures in Serverless Application Development](https://www.bmpi.dev/en/dev/guide-to-serverless/)
+- [10 Simple Ways to Build Residual Income in 2020](https://www.bmpi.dev/en/money/10-simple-ways-build-passive-income-2020/)
+- [Coupon Project Review](https://www.bmpi.dev/en/dev/coupon-project-review/)
+- [My GTD Tool](https://www.bmpi.dev/en/self/gtd-tools-i-used/)
+- [My Note System](https://www.bmpi.dev/en/self/note-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
