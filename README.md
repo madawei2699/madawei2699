@@ -37,7 +37,7 @@
 - [Adventures in Serverless Application Development](https://www.bmpi.dev/en/dev/guide-to-serverless/)
 <!-- BLOG-POST-LIST:END -->
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
 
 ![Elixir](https://img.shields.io/badge/-Elixir-%234B275F?style=flat-square&logo=elixir&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=java&logoColor=ffffff)
