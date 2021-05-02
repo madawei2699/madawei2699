@@ -30,11 +30,11 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [OKR + GTD + Note => Logseq](https://www.bmpi.dev/self/okr-gtd-note-logseq/)
 - [我的个人项目技术栈](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
 - [长期投资之难 # 组合月报(202103)](https://www.bmpi.dev/money/passive-income-protfolio/202103/)
 - [我的人生管理系统](https://www.bmpi.dev/self/life-in-plain-text/)
 - [重新思考估值策略 # 组合月报(202102)](https://www.bmpi.dev/money/passive-income-protfolio/202102/)
-- [Adventures in Serverless Application Development](https://www.bmpi.dev/en/dev/guide-to-serverless/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
