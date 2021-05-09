@@ -30,11 +30,11 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [加密币挖矿小记](https://www.bmpi.dev/dev/guide-to-mining/)
 - [家庭资产配置的阶段 # 组合月报(202104)](https://www.bmpi.dev/money/passive-income-protfolio/202104/)
 - [OKR + GTD + Note => Logseq](https://www.bmpi.dev/self/okr-gtd-note-logseq/)
 - [我的个人项目技术栈](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
 - [长期投资之难 # 组合月报(202103)](https://www.bmpi.dev/money/passive-income-protfolio/202103/)
-- [我的人生管理系统](https://www.bmpi.dev/self/life-in-plain-text/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
