@@ -51,9 +51,11 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=Next.js)
+![Svelte](https://img.shields.io/badge/-Svelte-%23000000?style=flat-square&logo=svelte)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 
 ![AWS](https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff)
+![Azure](https://img.shields.io/badge/-Azure-%230089d6?style=flat-square&logo=microsoft-azure&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23000000?style=flat-square&logo=vercel&logoColor=ffffff)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 
