@@ -30,11 +30,11 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [最牛指数 # 组合月报(202106)](https://www.bmpi.dev/money/passive-income-protfolio/202106/)
 - [国际化与本地化](https://www.bmpi.dev/dev/i18n-l10n/)
 - [慢慢变富 # 组合月报(202105)](https://www.bmpi.dev/money/passive-income-protfolio/202105/)
 - [失败驱动开发](https://www.bmpi.dev/dev/failure-driven-development/)
 - [加密币挖矿小记](https://www.bmpi.dev/dev/guide-to-mining/)
-- [家庭资产配置的阶段 # 组合月报(202104)](https://www.bmpi.dev/money/passive-income-protfolio/202104/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
