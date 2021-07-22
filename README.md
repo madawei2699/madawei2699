@@ -28,7 +28,7 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [International(i18n) and Localization(L10n)](https://www.bmpi.dev/en/dev/i18n-l10n/)
+- [Internationalization(i18n) and Localization(L10n)](https://www.bmpi.dev/en/dev/i18n-l10n/)
 - [最牛指数 # 组合月报(202106)](https://www.bmpi.dev/money/passive-income-protfolio/202106/)
 - [国际化与本地化](https://www.bmpi.dev/dev/i18n-l10n/)
 - [慢慢变富 # 组合月报(202105)](https://www.bmpi.dev/money/passive-income-protfolio/202105/)
