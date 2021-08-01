@@ -28,11 +28,11 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [护城河还在但城没了 # 组合月报(202107)](https://www.bmpi.dev/money/passive-income-protfolio/202107/)
 - [构建高质量的信息输入渠道](https://www.bmpi.dev/self/my-info-input-channel/)
 - [Internationalization(i18n) and Localization(L10n)](https://www.bmpi.dev/en/dev/i18n-l10n/)
 - [最牛指数 # 组合月报(202106)](https://www.bmpi.dev/money/passive-income-protfolio/202106/)
 - [国际化与本地化](https://www.bmpi.dev/dev/i18n-l10n/)
-- [慢慢变富 # 组合月报(202105)](https://www.bmpi.dev/money/passive-income-protfolio/202105/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
