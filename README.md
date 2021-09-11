@@ -28,11 +28,11 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [仓位管理是核心 # 组合月报(202108)](https://www.bmpi.dev/money/passive-income-protfolio/202108/)
 - [云端 IDE](https://www.bmpi.dev/dev/vscode-on-cloud/)
 - [Cloud IDE](https://www.bmpi.dev/en/dev/vscode-on-cloud/)
 - [护城河还在但城没了 # 组合月报(202107)](https://www.bmpi.dev/money/passive-income-protfolio/202107/)
 - [构建高质量的信息输入渠道](https://www.bmpi.dev/self/my-info-input-channel/)
-- [Internationalization(i18n) and Localization(L10n)](https://www.bmpi.dev/en/dev/i18n-l10n/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
