@@ -28,7 +28,7 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [使用 Beancoun 管理家庭财务](https://www.bmpi.dev/self/beancount-my-accounting-tool-v2/)
+- [使用 Beancount 管理家庭财务](https://www.bmpi.dev/self/beancount-my-accounting-tool-v2/)
 - [三周年小记 # 组合月报(202109)](https://www.bmpi.dev/money/passive-income-protfolio/202109/)
 - [仓位管理是核心 # 组合月报(202108)](https://www.bmpi.dev/money/passive-income-protfolio/202108/)
 - [云端 IDE](https://www.bmpi.dev/dev/vscode-on-cloud/)
