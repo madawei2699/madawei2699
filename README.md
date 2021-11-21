@@ -28,11 +28,11 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [如何学习一门技术](https://www.bmpi.dev/dev/how-to-learn-tech/)
 - [Adventures in K8S Cloud Native App Development](https://www.bmpi.dev/en/dev/guide-to-k8s-cloud-native/)
 - [K8S 云原生应用开发小记](https://www.bmpi.dev/dev/guide-to-k8s-cloud-native/)
 - [使用 Beancount 管理家庭财务](https://www.bmpi.dev/self/beancount-my-accounting-tool-v2/)
 - [三周年小记 # 组合月报&lpar;202109&rpar;](https://www.bmpi.dev/money/passive-income-protfolio/202109/)
-- [仓位管理是核心 # 组合月报&lpar;202108&rpar;](https://www.bmpi.dev/money/passive-income-protfolio/202108/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
