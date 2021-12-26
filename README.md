@@ -28,11 +28,11 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [分布式系统中的时间](https://www.bmpi.dev/dev/time-in-distributed-system/)
 - [分布式系统下的认证与授权](https://www.bmpi.dev/dev/authentication-and-authorization-in-a-distributed-system/)
 - [如何学习一门技术](https://www.bmpi.dev/dev/how-to-learn-tech/)
 - [Adventures in K8S Cloud Native App Development](https://www.bmpi.dev/en/dev/guide-to-k8s-cloud-native/)
 - [K8S 云原生应用开发小记](https://www.bmpi.dev/dev/guide-to-k8s-cloud-native/)
-- [使用 Beancount 管理家庭财务](https://www.bmpi.dev/self/beancount-my-accounting-tool-v2/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
