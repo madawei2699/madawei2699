@@ -24,6 +24,7 @@
 
 :books: ` ` My annual summary posts:
 
+* [2021](https://www.bmpi.dev/self/annual-summary/2021/)
 * [2020](https://www.bmpi.dev/self/annual-summary/2020/)
 
 :scroll: ` ` Latest Blog Posts
