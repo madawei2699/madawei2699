@@ -29,11 +29,11 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [复盘2021 # 组合季报&lpar;2021Q4&rpar;](https://www.bmpi.dev/money/passive-income-protfolio/2021q4/)
 - [我的2021](https://www.bmpi.dev/self/annual-summary/2021/)
 - [分布式系统中的时间](https://www.bmpi.dev/dev/time-in-distributed-system/)
 - [分布式系统下的认证与授权](https://www.bmpi.dev/dev/authentication-and-authorization-in-a-distributed-system/)
 - [如何学习一门技术](https://www.bmpi.dev/dev/how-to-learn-tech/)
-- [Adventures in K8S Cloud Native App Development](https://www.bmpi.dev/en/dev/guide-to-k8s-cloud-native/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
