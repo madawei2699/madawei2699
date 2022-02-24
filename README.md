@@ -29,11 +29,11 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [写在第二十五万字](https://www.bmpi.dev/self/my-writing-story/250k/)
 - [走进 Web3](https://www.bmpi.dev/dev/glimpse-of-web3/)
 - [财富常识](https://www.bmpi.dev/self/how-to-get-rich/)
 - [复盘2021 # 组合季报&lpar;2021Q4&rpar;](https://www.bmpi.dev/money/passive-income-protfolio/2021q4/)
 - [我的2021](https://www.bmpi.dev/self/annual-summary/2021/)
-- [分布式系统中的时间](https://www.bmpi.dev/dev/time-in-distributed-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
