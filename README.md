@@ -29,7 +29,7 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [编程语言是如何实现范型的](https://www.bmpi.dev/dev/deep-in-program-language/how-to-implement-generics/)
+- [编程语言是如何实现泛型的](https://www.bmpi.dev/dev/deep-in-program-language/how-to-implement-generics/)
 - [写在第二十五万字](https://www.bmpi.dev/self/my-writing-story/250k/)
 - [走进 Web3](https://www.bmpi.dev/dev/glimpse-of-web3/)
 - [财富常识](https://www.bmpi.dev/self/how-to-get-rich/)
