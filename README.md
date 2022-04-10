@@ -29,11 +29,11 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Adventures in K8S Cloud Native App Development](https://www.bmpi.dev/en/dev/guide-to-k8s-cloud-native/)
-- [Cloud IDE](https://www.bmpi.dev/en/dev/vscode-on-cloud/)
-- [Internationalization&lpar;i18n&rpar; and Localization&lpar;L10n&rpar;](https://www.bmpi.dev/en/dev/i18n-l10n/)
-- [Adventures in Serverless Application Development](https://www.bmpi.dev/en/dev/guide-to-serverless/)
-- [10 Simple Ways to Build Residual Income in 2020](https://www.bmpi.dev/en/money/10-simple-ways-build-passive-income-2020/)
+- [编程语言是如何实现并发的之操作系统篇](https://www.bmpi.dev/dev/deep-in-program-language/how-to-implement-concurrency/os-scheduling/)
+- [编程语言是如何实现泛型的](https://www.bmpi.dev/dev/deep-in-program-language/how-to-implement-generics/)
+- [写在第二十五万字](https://www.bmpi.dev/self/my-writing-story/250k/)
+- [走进 Web3](https://www.bmpi.dev/dev/glimpse-of-web3/)
+- [财富常识](https://www.bmpi.dev/self/how-to-get-rich/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
