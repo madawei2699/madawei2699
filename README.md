@@ -29,11 +29,11 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [编程语言是如何实现并发的之操作系统篇](https://www.bmpi.dev/dev/deep-in-program-language/how-to-implement-concurrency/os-scheduling/)
 - [编程语言是如何实现泛型的](https://www.bmpi.dev/dev/deep-in-program-language/how-to-implement-generics/)
 - [写在第二十五万字](https://www.bmpi.dev/self/my-writing-story/250k/)
 - [走进 Web3](https://www.bmpi.dev/dev/glimpse-of-web3/)
 - [财富常识](https://www.bmpi.dev/self/how-to-get-rich/)
-- [复盘2021 # 组合季报&lpar;2021Q4&rpar;](https://www.bmpi.dev/money/passive-income-protfolio/2021q4/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
