@@ -29,11 +29,11 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [编程语言是如何实现并发的之并发模型篇](https://www.bmpi.dev/dev/deep-in-program-language/how-to-implement-concurrency/concurrency-model/)
 - [A Glimpse of Web3](https://www.bmpi.dev/en/dev/glimpse-of-web3/)
 - [疫情与战争 # 组合季报&lpar;2022Q1&rpar;](https://www.bmpi.dev/money/passive-income-protfolio/2022q1/)
 - [编程语言是如何实现并发的之操作系统篇](https://www.bmpi.dev/dev/deep-in-program-language/how-to-implement-concurrency/os-scheduling/)
 - [编程语言是如何实现泛型的](https://www.bmpi.dev/dev/deep-in-program-language/how-to-implement-generics/)
-- [写在第二十五万字](https://www.bmpi.dev/self/my-writing-story/250k/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
