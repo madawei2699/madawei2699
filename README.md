@@ -29,11 +29,11 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Google软件工程之过程篇](https://www.bmpi.dev/dev/software-engineering-at-google/process/)
 - [Google软件工程之文化篇](https://www.bmpi.dev/dev/software-engineering-at-google/culture/)
 - [交易之难 # 组合季报&lpar;2022Q2&rpar;](https://www.bmpi.dev/money/passive-income-protfolio/2022q2/)
 - [从技术难题中学习](https://www.bmpi.dev/dev/learning-from-puzzles/)
 - [编程语言是如何实现并发的之并发模型篇](https://www.bmpi.dev/dev/deep-in-program-language/how-to-implement-concurrency/concurrency-model/)
-- [A Glimpse of Web3](https://www.bmpi.dev/en/dev/glimpse-of-web3/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
