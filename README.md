@@ -65,6 +65,7 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-%23623CE4?style=flat-square&logo=terraform&logoColor=ffffff)
 ![Serverless](https://img.shields.io/badge/-Serverless-%23FD5750?style=flat-square&logo=serverless&logoColor=ffffff)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-%232088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326ce5?style=flat-square&logo=kubernetes&logoColor=ffffff)
 
 ![Nginx](https://img.shields.io/badge/-Nginx-%23269539?style=flat-square&logo=nginx&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff)
