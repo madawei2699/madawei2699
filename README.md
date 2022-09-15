@@ -29,11 +29,11 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [构建自己的杠杆](https://www.bmpi.dev/self/build-leverage/)
 - [投资炼金术](https://www.bmpi.dev/money/invest-alchemy/)
 - [Google软件工程之过程篇](https://www.bmpi.dev/dev/software-engineering-at-google/process/)
 - [Google软件工程之文化篇](https://www.bmpi.dev/dev/software-engineering-at-google/culture/)
 - [交易之难 # 组合季报&lpar;2022Q2&rpar;](https://www.bmpi.dev/money/passive-income-protfolio/2022q2/)
-- [从技术难题中学习](https://www.bmpi.dev/dev/learning-from-puzzles/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
