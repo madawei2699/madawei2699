@@ -12,7 +12,7 @@
 [![](https://img.shields.io/badge/dynamic/json?label=BMPI.dev's%20PV&query=%24.count&url=https%3A%2F%2Fapi.bmpi.dev%2Fpage-views%2Fbmpi-dev-all-page-views%2F
 )](https://www.bmpi.dev)
 
-:smiley: ` ` I am a developer from [Xi'an](https://github.com/madawei2699/xian-IT).
+:smiley: ` ` I am a developer from [Xi'an](https://github.com/madawei2699/xian-IT). You can know more about me in my online [resume](https://madawei.bmpi.dev).
 
 :dart: ` ` My goal is to `build my passive income by developing`, aka the [BMPI.dev](https://www.bmpi.dev).
 
