@@ -12,15 +12,7 @@
 [![](https://img.shields.io/badge/dynamic/json?label=BMPI.dev's%20PV&query=%24.count&url=https%3A%2F%2Fapi.bmpi.dev%2Fpage-views%2Fbmpi-dev-all-page-views%2F
 )](https://www.bmpi.dev)
 
-:smiley: ` ` I am a developer from [Xi'an](https://github.com/madawei2699/xian-IT). You can know more about me in my online [resume](https://madawei.bmpi.dev).
-
-:dart: ` ` My goal is to `build my passive income by developing`, aka the [BMPI.dev](https://www.bmpi.dev).
-
-:eyes: ` ` I have a [dashboard](https://datastudio.google.com/u/0/reporting/6c3c6d3d-cd2f-4f8c-85e6-c06d672c445b/page/MnJzB) for monitoring my blog & social data.
-
-:pencil: ` ` I write a lot in my blog [BMPI.dev](https://www.bmpi.dev).
-
-:chart_with_upwards_trend: ` ` I manage a [ETF portfolio](https://money.bmpi.dev/portfolio?t=bmpi&p=被动收入) which has a [3D model](https://github.com/madawei2699/bmpi.dev/blob/master/portfolio/bmpi-portfolio-2018-2021.STL).
+:smiley: ` ` I am a full stack developer living [Xi'an](https://github.com/madawei2699/xian-IT). You can find more in my [blog](https://www.bmpi.dev/).
 
 :books: ` ` My annual summary posts:
 
