@@ -16,6 +16,7 @@
 
 :books: ` ` My annual summary posts:
 
+* [2022](https://www.bmpi.dev/self/annual-summary/2022/)
 * [2021](https://www.bmpi.dev/self/annual-summary/2021/)
 * [2020](https://www.bmpi.dev/self/annual-summary/2020/)
 
