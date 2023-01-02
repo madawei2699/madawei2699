@@ -22,11 +22,11 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2022亏了多少 # 组合季报&lpar;2022Q4&rpar;](https://www.bmpi.dev/money/passive-income-protfolio/2022q4/)
 - [我的2022](https://www.bmpi.dev/self/annual-summary/2022/)
 - [AI降临](https://www.bmpi.dev/self/ai-arrival/)
 - [构建自己的信息简报](https://www.bmpi.dev/self/use-rss-email-read/)
 - [善用GitHub](https://www.bmpi.dev/self/use-github-better/)
-- [Real-time Web应用开发新体验](https://www.bmpi.dev/dev/real-time-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
