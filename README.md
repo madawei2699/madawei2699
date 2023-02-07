@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/--%23000000?style=flat&logo=wechat&logoColor=ffffff)](https://img.bmpi.dev/755b406f-43ae-e382-e13c-547116d3e7d5.png)
 [![](https://img.shields.io/badge/--%23000000?style=flat&logo=zhihu&logoColor=ffffff)](https://zhuanlan.zhihu.com/improve365)
 [![](https://img.shields.io/badge/--%23000000?style=flat&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UCbg-Y24Z1H0nONW-bxgzv6w)
-[![](https://img.shields.io/badge/--%23000000?style=flat&logo=tinyletter&logoColor=ffffff)](https://tinyletter.com/i365)
+[![](https://img.shields.io/badge/--%23000000?style=flat&logo=tinyletter&logoColor=ffffff)](https://tinyletter.com/bmpi-dev)
 [![](https://img.shields.io/badge/--%23000000?style=flat&logo=rss&logoColor=ffffff)](https://www.bmpi.dev/index.xml)
 [![](https://img.shields.io/badge/-CPC-%23000000?style=flat&logo=telegram&logoColor=ffffff)](https://t.me/web_cpc)
 [![](https://img.shields.io/badge/-BMPI-%23000000?style=flat&logo=telegram&logoColor=ffffff)](https://t.me/bmpi365)
