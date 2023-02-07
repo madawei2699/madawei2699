@@ -1,7 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Dawei Ma 
 
 [![](https://img.shields.io/badge/--%23000000?style=flat&logo=twitter&logoColor=ffffff)](https://twitter.com/madawei2699)
-[![](https://img.shields.io/badge/--%23000000?style=flat&logo=github&logoColor=ffffff)](https://github.com/madawei2699)
 [![](https://img.shields.io/badge/--%23000000?style=flat&logo=wechat&logoColor=ffffff)](https://img.bmpi.dev/755b406f-43ae-e382-e13c-547116d3e7d5.png)
 [![](https://img.shields.io/badge/--%23000000?style=flat&logo=zhihu&logoColor=ffffff)](https://zhuanlan.zhihu.com/improve365)
 [![](https://img.shields.io/badge/--%23000000?style=flat&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UCbg-Y24Z1H0nONW-bxgzv6w)
