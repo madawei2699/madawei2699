@@ -21,7 +21,7 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [我的 AI 阅读助手](https://www.bmpi.dev/self/my-gpt-reader/)
+- [我的AI阅读助手](https://www.bmpi.dev/self/my-gpt-reader/)
 - [SQLite Renaissance](https://www.bmpi.dev/en/dev/renaissance-sqlite/)
 - [SQLite的文艺复兴](https://www.bmpi.dev/dev/renaissance-sqlite/)
 - [2022亏了多少 # 组合季报&lpar;2022Q4&rpar;](https://www.bmpi.dev/money/passive-income-protfolio/2022q4/)
