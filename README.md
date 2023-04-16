@@ -79,6 +79,8 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀 for nerds
 
+[![Dawei Ma's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=madawei2699&count_private=true&show_icons=true)](https://www.bmpi.dev)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C803%20hrs%2034%20mins-blue)
 
@@ -163,8 +165,6 @@ Makefile                 2 repos             █░░░░░░░░░░�
 
  Last Updated on 16/04/2023 18:38:58 UTC
 <!--END_SECTION:waka-->
-
-[![Dawei Ma's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=madawei2699&count_private=true&show_icons=true)](https://www.bmpi.dev)
 
 <!--
 **madawei2699/madawei2699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
