@@ -77,7 +77,10 @@
 ![Google Adsense](https://img.shields.io/badge/-Google%20Adsense-%234285F4?style=flat-square&logo=google-adsense&logoColor=ffffff)
 ![Google Ads](https://img.shields.io/badge/-Google%20Ads-%234285F4?style=flat-square&logo=google-ads&logoColor=ffffff)
 
-## 𝗦𝘁𝗮𝘁𝘀
+## 𝗦𝘁𝗮𝘁𝘀 for nerds
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![Dawei Ma's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=madawei2699&count_private=true&show_icons=true)](https://www.bmpi.dev)
 
