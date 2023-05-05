@@ -82,9 +82,9 @@
 [![Dawei Ma's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=madawei2699&count_private=true&show_icons=true)](https://www.bmpi.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C819%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C819%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.2%20million%20lines%20of%20code-blue)
 
@@ -127,18 +127,18 @@ Sunday                   3356 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 1 min         ████████████████░░░░░░░░░   64.42 % 
-Other                    1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   35.58 % 
+Other                    52 mins             ███████████████████░░░░░░   74.50 % 
+Markdown                 18 mins             ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mymoney                  2 hrs 37 mins       █████████████████████░░░░   83.96 % 
-bmpi.dev                 30 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+mymoney                  52 mins             ███████████████████░░░░░░   74.50 % 
+bmpi.dev                 18 mins             ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
 
 💻 Operating System: 
-Mac                      3 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -158,7 +158,7 @@ Makefile                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/madawei2699/madawei2699/main/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2023 18:38:09 UTC
+ Last Updated on 05/05/2023 18:38:10 UTC
 <!--END_SECTION:waka-->
 
 <!--
