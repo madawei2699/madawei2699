@@ -82,9 +82,9 @@
 [![Dawei Ma's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=madawei2699&count_private=true&show_icons=true)](https://www.bmpi.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C857%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C857%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.4%20million%20lines%20of%20code-blue)
 
@@ -133,8 +133,8 @@ Other                    39 mins             ███████████�
 VS Code                  39 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mymoney                  31 mins             ████████████████████░░░░░   79.13 % 
-Unknown Project          8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+mymoney                  31 mins             ████████████████████░░░░░   79.31 % 
+Unknown Project          8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
 
 💻 Operating System: 
 Mac                      39 mins             █████████████████████████   100.00 % 
@@ -157,7 +157,7 @@ Makefile                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/madawei2699/madawei2699/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2023 18:39:45 UTC
+ Last Updated on 21/06/2023 18:38:49 UTC
 <!--END_SECTION:waka-->
 
 <!--
