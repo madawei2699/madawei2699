@@ -82,9 +82,9 @@
 [![Dawei Ma's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=madawei2699&count_private=true&show_icons=true)](https://www.bmpi.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C862%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C863%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.4%20million%20lines%20of%20code-blue)
 
@@ -127,19 +127,20 @@ Sunday                   3504 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 24 mins       ██████████████████████░░░   86.24 % 
-Other                    42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Python                   4 hrs 56 mins       █████████████████████░░░░   83.55 % 
+Other                    42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-myInvestResearch         4 hrs 24 mins       ██████████████████████░░░   86.24 % 
-mymoney                  36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-bmpi.dev                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+myInvestResearch         5 hrs 12 mins       ██████████████████████░░░   88.10 % 
+mymoney                  36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+bmpi.dev                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 💻 Operating System: 
-Mac                      5 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -159,7 +160,7 @@ Makefile                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/madawei2699/madawei2699/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2023 18:42:43 UTC
+ Last Updated on 29/06/2023 18:43:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
