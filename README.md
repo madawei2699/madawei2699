@@ -30,6 +30,7 @@
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=ffffff)
 ![Elixir](https://img.shields.io/badge/-Elixir-%234B275F?style=flat-square&logo=elixir&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -46,6 +47,7 @@
 ![Svelte](https://img.shields.io/badge/-Svelte-%23ff3e00?style=flat-square&logo=svelte&logoColor=ffffff)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%2338b2ac?style=flat-square&logo=tailwind-css&logoColor=ffffff)
 
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-%23F48120?style=flat-square&logo=cloudflare&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff)
 ![Azure](https://img.shields.io/badge/-Azure-%230089d6?style=flat-square&logo=microsoft-azure&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23000000?style=flat-square&logo=vercel&logoColor=ffffff)
