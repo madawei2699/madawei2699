@@ -47,6 +47,7 @@
 ![Svelte](https://img.shields.io/badge/-Svelte-%23ff3e00?style=flat-square&logo=svelte&logoColor=ffffff)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%2338b2ac?style=flat-square&logo=tailwind-css&logoColor=ffffff)
 
+![OpenAI](https://img.shields.io/badge/-OpenAI-%23412991?style=flat-square&logo=openai&logoColor=ffffff)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-%23F48120?style=flat-square&logo=cloudflare&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff)
 ![Azure](https://img.shields.io/badge/-Azure-%230089d6?style=flat-square&logo=microsoft-azure&logoColor=ffffff)
