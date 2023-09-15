@@ -21,11 +21,11 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [我与ChatGPT结对编程的体验](https://www.bmpi.dev/dev/chatgpt-development-notes/pair-programming/)
-- [ChatGPT背后的语言模型简史](https://www.bmpi.dev/dev/deep-learning/nlp-language-models/)
-- [ChatGPT应用开发小记](https://www.bmpi.dev/dev/chatgpt-development-notes/my-gpt-reader/)
-- [我的AI阅读助手](https://www.bmpi.dev/self/my-gpt-reader/)
 - [SQLite Renaissance](https://www.bmpi.dev/en/dev/renaissance-sqlite/)
+- [A Glimpse of Web3](https://www.bmpi.dev/en/dev/glimpse-of-web3/)
+- [Adventures in K8S Cloud Native App Development](https://www.bmpi.dev/en/dev/guide-to-k8s-cloud-native/)
+- [Cloud IDE](https://www.bmpi.dev/en/dev/vscode-on-cloud/)
+- [Internationalization&lpar;i18n&rpar; and Localization&lpar;L10n&rpar;](https://www.bmpi.dev/en/dev/i18n-l10n/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
