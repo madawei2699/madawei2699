@@ -85,9 +85,9 @@
 [![Dawei Ma's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=madawei2699&count_private=true&show_icons=true)](https://www.bmpi.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C183%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C184%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.6%20million%20lines%20of%20code-blue)
 
@@ -130,21 +130,21 @@ Sunday                   3661 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 35 mins        ██████████████░░░░░░░░░░░   57.13 % 
-ActionScript 3           42 mins             ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-ca65 assembler           19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-Objective-C              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Markdown                 1 hr 35 mins        ████████████░░░░░░░░░░░░░   47.39 % 
+ActionScript 3           42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+Other                    36 mins             █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+ca65 assembler           19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 47 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-i365TechLandingPage      1 hr 41 mins        ███████████████░░░░░░░░░░   60.51 % 
-mymoney                  1 hr 6 mins         ██████████░░░░░░░░░░░░░░░   39.49 % 
+i365TechLandingPage      1 hr 41 mins        █████████████░░░░░░░░░░░░   50.20 % 
+mymoney                  1 hr 40 mins        ████████████░░░░░░░░░░░░░   49.80 % 
 
 💻 Operating System: 
-Mac                      2 hrs 47 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -164,7 +164,7 @@ Makefile                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/madawei2699/madawei2699/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2023 18:41:42 UTC
+ Last Updated on 26/10/2023 18:42:25 UTC
 <!--END_SECTION:waka-->
 
 <!--
