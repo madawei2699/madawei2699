@@ -11,7 +11,7 @@
 [![](https://img.shields.io/badge/dynamic/json?label=BMPI.dev's%20PV&query=%24.count&url=https%3A%2F%2Fapi.bmpi.dev%2Fpage-views%2Fbmpi-dev-all-page-views%2F
 )](https://www.bmpi.dev)
 
-:smiley: ` ` I am a full stack developer living [Xi'an](https://github.com/madawei2699/xian-IT). You can find more in my [blog](https://www.bmpi.dev/).
+:smiley: ` ` I am a full stack developer living [Xi'an](https://github.com/madawei2699/xian-IT). You can find more on my [product site](https://www.i365.tech/).
 
 :books: ` ` My annual summary posts:
 
