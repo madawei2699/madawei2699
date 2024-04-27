@@ -20,11 +20,11 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [策引全球投资组合：A股1号](https://www.bmpi.dev/money/portfolios/myinvestpilot_cn_1/)
 - [全球投资开户完全指南：A股与美股篇](https://www.bmpi.dev/money/guide-to-open-global-investment-account/)
 - [我的2023](https://www.bmpi.dev/self/annual-summary/2023/)
 - [全球经济中的隐形巨人](https://www.bmpi.dev/money/what-is-capital/)
 - [海外银行证券开户薅羊毛小记](https://www.bmpi.dev/money/guide-to-open-sg-bank/)
-- [我与ChatGPT结对编程的体验](https://www.bmpi.dev/dev/chatgpt-development-notes/pair-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
