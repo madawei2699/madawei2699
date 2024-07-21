@@ -20,11 +20,11 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [BMPI周记2427：时光机](https://www.bmpi.dev/weeklies/20240708/)
-- [BMPI周记2425：直播小完结](https://www.bmpi.dev/weeklies/20240622/)
-- [BMPI周记2423：不要做空](https://www.bmpi.dev/weeklies/20240607/)
-- [BMPI周记2422：十年前的今天](https://www.bmpi.dev/weeklies/20240601/)
-- [BMPI周记2421：交易之难](https://www.bmpi.dev/weeklies/20240525/)
+- [BMPI周记007：经济下行](https://www.bmpi.dev/weeklies/20240721/)
+- [BMPI周记006：时光机](https://www.bmpi.dev/weeklies/20240708/)
+- [BMPI周记005：直播小完结](https://www.bmpi.dev/weeklies/20240622/)
+- [BMPI周记004：不要做空](https://www.bmpi.dev/weeklies/20240607/)
+- [BMPI周记003：十年前的今天](https://www.bmpi.dev/weeklies/20240601/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
