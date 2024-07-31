@@ -1,11 +1,7 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Dawei Ma 
 
-[![](https://img.shields.io/badge/--%23000000?style=flat&logo=twitter&logoColor=ffffff)](https://twitter.com/madawei2699)
-[![](https://img.shields.io/badge/--%23000000?style=flat&logo=wechat&logoColor=ffffff)](https://img.bmpi.dev/755b406f-43ae-e382-e13c-547116d3e7d5.png)
-[![](https://img.shields.io/badge/--%23000000?style=flat&logo=zhihu&logoColor=ffffff)](https://zhuanlan.zhihu.com/improve365)
 [![](https://img.shields.io/badge/--%23000000?style=flat&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UCbg-Y24Z1H0nONW-bxgzv6w)
-[![](https://img.shields.io/badge/--%23000000?style=flat&logo=rss&logoColor=ffffff)](https://www.bmpi.dev/index.xml)
-[![](https://img.shields.io/badge/-BMPI-%23000000?style=flat&logo=telegram&logoColor=ffffff)](https://t.me/bmpi365)
+[![](https://img.shields.io/badge/-BMPI-%23000000?style=flat&logo=telegram&logoColor=ffffff)](https://t.me/bmpi_group)
 [![](https://img.shields.io/badge/dynamic/json?label=BMPI.dev's%20PV&query=%24.count&url=https%3A%2F%2Fapi.bmpi.dev%2Fpage-views%2Fbmpi-dev-all-page-views%2F
 )](https://www.bmpi.dev)
 
@@ -37,15 +33,6 @@
 ![Swift](https://img.shields.io/badge/-Swift-%23FA7343?style=flat-square&logo=swift&logoColor=ffffff)
 ![Golang](https://img.shields.io/badge/-Golang-%2329BEB0?style=flat-square&logo=go&logoColor=ffffff)
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%234fc08d?style=flat-square&logo=vue-dot-js&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-%2361dafb?style=flat-square&logo=react&logoColor=ffffff)
-![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=next-dot-js&logoColor=ffffff)
-![Svelte](https://img.shields.io/badge/-Svelte-%23ff3e00?style=flat-square&logo=svelte&logoColor=ffffff)
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%2338b2ac?style=flat-square&logo=tailwind-css&logoColor=ffffff)
-
 ![OpenAI](https://img.shields.io/badge/-OpenAI-%23412991?style=flat-square&logo=openai&logoColor=ffffff)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-%23F48120?style=flat-square&logo=cloudflare&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff)
@@ -67,12 +54,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-%23DC382D?style=flat-square&logo=redis&logoColor=ffffff)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-%23005571?style=flat-square&logo=elasticsearch&logoColor=ffffff)
-
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![IDEA](https://img.shields.io/badge/-IDEA-%23000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=%23ffffff)
-![Vim](https://img.shields.io/badge/-Vim-%23019733?style=flat-square&logo=vim&logoColor=%23ffffff)
-![Chrome](https://img.shields.io/badge/-Chrome-%234285F4?style=flat-square&logo=google-chrome&logoColor=%23ffffff)
 
 ![Google SEO](https://img.shields.io/badge/-Google%20SEO-%234285F4?style=flat-square&logo=google&logoColor=ffffff)
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-%23E37400?style=flat-square&logo=google-analytics&logoColor=ffffff)
