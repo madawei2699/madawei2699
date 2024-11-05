@@ -1,10 +1,5 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Dawei Ma 
 
-[![](https://img.shields.io/badge/--%23000000?style=flat&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UCbg-Y24Z1H0nONW-bxgzv6w)
-[![](https://img.shields.io/badge/-BMPI-%23000000?style=flat&logo=telegram&logoColor=ffffff)](https://t.me/bmpi_group)
-[![](https://img.shields.io/badge/dynamic/json?label=BMPI.dev's%20PV&query=%24.count&url=https%3A%2F%2Fapi.bmpi.dev%2Fpage-views%2Fbmpi-dev-all-page-views%2F
-)](https://www.bmpi.dev)
-
 :smiley: ` ` I am a full stack developer living [Xi'an](https://github.com/madawei2699/xian-IT). You can find more on my [product site](https://www.i365.tech/).
 
 :books: ` ` My annual summary posts:
