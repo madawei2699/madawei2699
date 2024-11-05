@@ -62,7 +62,15 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀 for nerds
 
-![Dawei Ma's github stats](https://github-readme-stats-git-responsetype-dawei-mas-projects.vercel.app/api?username=madawei2699&count_private=true&show_icons=true&theme=transparent)
+### Personal GitHub Statistics
+![Personal GitHub Stats](https://github-readme-stats-git-responsetype-dawei-mas-projects.vercel.app/api?username=madawei2699&count_private=true&show_icons=true&theme=transparent)
+
+### Stars for My Owned Organizations
+
+- **[bmpi-dev](https://github.com/bmpi-dev)** ![bmpi-dev Stars](https://img.shields.io/github/stars/bmpi-dev?style=social)
+- **[i365dev](https://github.com/i365dev)** ![i365dev Stars](https://img.shields.io/github/stars/i365dev?style=social)
+- **[myreader-io](https://github.com/myreader-io)** ![myreader-io Stars](https://img.shields.io/github/stars/myreader-io?style=social)
+- **[myinvestpilot](https://github.com/myinvestpilot)** ![myinvestpilot Stars](https://img.shields.io/github/stars/myinvestpilot?style=social)
 
 <!--
 **madawei2699/madawei2699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
