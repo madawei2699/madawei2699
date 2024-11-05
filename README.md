@@ -62,7 +62,7 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀 for nerds
 
-![Dawei Ma's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=madawei2699&count_private=true&show_icons=true)
+![Dawei Ma's github stats](https://github-readme-stats-git-responsetype-dawei-mas-projects.vercel.app/api?username=madawei2699&count_private=true&show_icons=true&theme=transparent)
 
 <!--
 **madawei2699/madawei2699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
