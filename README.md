@@ -11,11 +11,11 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [三十五](https://www.bmpi.dev/self/35/)
 - [我的AI投资助手](https://www.bmpi.dev/self/my-invest-pilot/)
 - [我的投资之路：从迷茫亏损到系统构建与“策引”的萌芽](https://www.bmpi.dev/self/my-investment-path/)
 - [BMPI周记008：设止损而勇试错](https://www.bmpi.dev/weeklies/20240817/)
 - [BMPI周记007：经济下行](https://www.bmpi.dev/weeklies/20240721/)
-- [BMPI周记006：时光机](https://www.bmpi.dev/weeklies/20240708/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
