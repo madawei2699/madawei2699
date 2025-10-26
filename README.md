@@ -18,7 +18,7 @@
 - [BMPI周记007：经济下行](https://www.bmpi.dev/weeklies/20240721/)
 <!-- BLOG-POST-LIST:END -->
 
-## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
+## [𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=ffffff)
 ![Elixir](https://img.shields.io/badge/-Elixir-%234B275F?style=flat-square&logo=elixir&logoColor=ffffff)
