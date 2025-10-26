@@ -1,8 +1,9 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Dawei Ma 
 
-:smiley: ` ` I am a full stack developer living [Xi'an](https://github.com/madawei2699/xian-IT). You can find more on my [product site](https://www.i365.tech/).
+:smiley: ` ` I’m a full-stack developer based in Xi’an, China. You can learn more about my products at [bmpi.dev](https://www.bmpi.dev/).
 
 :books: ` ` My annual summary posts:
+> Yearly reflections on my projects and learnings:
 
 * [2023](https://www.bmpi.dev/self/annual-summary/2023/)
 * [2022](https://www.bmpi.dev/self/annual-summary/2022/)
@@ -56,6 +57,8 @@
 ![Google Ads](https://img.shields.io/badge/-Google%20Ads-%234285F4?style=flat-square&logo=google-ads&logoColor=ffffff)
 
 ## 𝗦𝘁𝗮𝘁𝘀 for nerds
+
+> Some quick stats for fun — I like to track my open-source footprint.
 
 ### Personal GitHub Statistics
 ![Personal GitHub Stats](https://github-readme-stats-git-responsetype-dawei-mas-projects.vercel.app/api?username=madawei2699&count_private=true&show_icons=true&theme=transparent)
