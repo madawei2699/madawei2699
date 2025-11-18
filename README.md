@@ -12,11 +12,11 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [SQLite Renaissance](https://www.bmpi.dev/en/dev/renaissance-sqlite/)
-- [A Glimpse of Web3](https://www.bmpi.dev/en/dev/glimpse-of-web3/)
-- [Adventures in K8S Cloud Native App Development](https://www.bmpi.dev/en/dev/guide-to-k8s-cloud-native/)
-- [Cloud IDE](https://www.bmpi.dev/en/dev/vscode-on-cloud/)
-- [Internationalization&lpar;i18n&rpar; and Localization&lpar;L10n&rpar;](https://www.bmpi.dev/en/dev/i18n-l10n/)
+- [三十五](https://www.bmpi.dev/self/35/)
+- [我的AI投资助手](https://www.bmpi.dev/self/my-invest-pilot/)
+- [我的投资之路](https://www.bmpi.dev/self/my-investment-path/)
+- [BMPI周记008：设止损而勇试错](https://www.bmpi.dev/weeklies/20240817/)
+- [BMPI周记007：经济下行](https://www.bmpi.dev/weeklies/20240721/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
