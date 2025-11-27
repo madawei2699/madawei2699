@@ -12,7 +12,7 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [策引 2025 实盘大考：当算法跑赢人性](https://www.bmpi.dev/money/myinvestpilot/2025_review/)
+- [策引2025 实盘大考：当算法跑赢人性](https://www.bmpi.dev/money/myinvestpilot/2025_review/)
 - [三十五](https://www.bmpi.dev/self/35/)
 - [我的AI投资助手](https://www.bmpi.dev/self/my-invest-pilot/)
 - [我的投资之路](https://www.bmpi.dev/self/my-investment-path/)
