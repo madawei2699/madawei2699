@@ -12,11 +12,11 @@
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [反脆弱](https://www.bmpi.dev/self/antifragile/)
 - [系统化思维](https://www.bmpi.dev/self/systemic-thinking/)
 - [策引2025 实盘大考：当算法跑赢人性](https://www.bmpi.dev/money/myinvestpilot/2025_review/)
 - [三十五](https://www.bmpi.dev/self/35/)
 - [我的AI投资助手](https://www.bmpi.dev/self/my-invest-pilot/)
-- [我的投资之路](https://www.bmpi.dev/self/my-investment-path/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
