@@ -1,6 +1,16 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Dawei Ma 
+# Hi, I'm Dawei 👋
 
-:smiley: ` ` I’m a full-stack developer based in Xi’an, China. You can learn more about my products at [bmpi.dev](https://www.bmpi.dev/).
+I'm a software engineer and independent builder.
+Over the years, I've built and open-sourced multiple developer tools
+and AI-related projects that reached thousands of stars on GitHub.
+
+Currently, I'm working on **MyInvestPilot** —
+a systematic investment assistance platform focused on helping long-term investors
+build **rule-based, emotion-free investment systems** through transparent strategies and backtesting.
+
+🔗 https://www.myinvestpilot.com
+
+---
 
 :books: ` ` My annual summary posts:
 > Yearly reflections on my projects and learnings:
