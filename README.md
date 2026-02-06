@@ -1,12 +1,8 @@
 # Hi, I'm Dawei 👋
 
-I'm a software engineer and independent builder.
-Over the years, I've built and open-sourced multiple developer tools
-and AI-related projects that reached thousands of stars on GitHub.
+I'm a software engineer and independent builder focused on AI-native systems and developer platforms.
 
-Currently, I'm working on **MyInvestPilot** —
-a systematic investment assistance platform focused on helping long-term investors
-build **rule-based, emotion-free investment systems** through transparent strategies and backtesting.
+I’m building MyInvestPilot — an AI-native investment operating system that treats strategies as first-class primitives, enabling systematic, rule-based investing that is transparent, composable, and verifiable by both humans and machines.
 
 🔗 https://www.myinvestpilot.com
 
