@@ -18,11 +18,11 @@ I’m building MyInvestPilot — an AI-native investment operating system that t
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [从情绪化交易到系统化投资](https://www.bmpi.dev/money/myinvestpilot/emotional_to_system/)
 - [反脆弱](https://www.bmpi.dev/self/antifragile/)
 - [系统化思维](https://www.bmpi.dev/self/systemic-thinking/)
 - [策引2025 实盘大考：当算法跑赢人性](https://www.bmpi.dev/money/myinvestpilot/2025_review/)
 - [三十五](https://www.bmpi.dev/self/35/)
-- [我的AI投资助手](https://www.bmpi.dev/self/my-invest-pilot/)
 <!-- BLOG-POST-LIST:END -->
 
 ## [𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
