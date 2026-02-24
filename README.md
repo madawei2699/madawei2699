@@ -18,7 +18,7 @@ I’m building MyInvestPilot — an AI-native investment operating system that t
 
 :scroll: ` ` Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [我的退休计划：从无期到半退休](https://www.bmpi.dev/self/my-retirement-plan/)
+- [我的退休计划：把无期变成有期](https://www.bmpi.dev/self/my-retirement-plan/)
 - [从情绪化交易到系统化投资](https://www.bmpi.dev/money/myinvestpilot/emotional_to_system/)
 - [反脆弱](https://www.bmpi.dev/self/antifragile/)
 - [系统化思维](https://www.bmpi.dev/self/systemic-thinking/)
