@@ -9,7 +9,7 @@ I build agent-friendly workflow systems for complex domains — turning domain i
 My current work explores the same pattern across different domains:
 
 * [MyInvestPilot](https://www.myinvestpilot.com): an AI-native investment operating system where strategies are modeled as composable primitives, backtests become observation panels, and decisions can be tracked, explained, and improved.
-* CraftDAG / MinePilot: an agent-friendly Minecraft construction compiler and workspace where build intent becomes ComponentPlan, CraftDAG, VoxelPlan, validation, preview, materials, layers, and schematic export.
+* [CraftDAG / MinePilot](https://www.myminepilot.com): an agent-friendly Minecraft construction compiler and workspace where build intent becomes ComponentPlan, CraftDAG, VoxelPlan, validation, preview, materials, layers, and schematic export.
 
 > Human-friendly UI is not enough in the agent era. Software also needs agent-friendly workflows.
 
