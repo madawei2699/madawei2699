@@ -1,15 +1,17 @@
 # Hi, I'm Dawei 👋
 
-I'm a software engineer, independent builder, and systematic investor.
+Hi, I’m Dawei
 
-I build **AI-native systems for decision-making** — combining software architecture, investment research, automation, and human judgment into transparent, rule-based products.
+I’m a software engineer, independent builder, and systematic investor.
 
-Currently, my main focus is **[MyInvestPilot](https://www.myinvestpilot.com)**:
-an AI-native investment operating system where strategies are modeled as composable primitives, backtests become live observation panels, and investment decisions can be tracked, explained, and improved over time.
+I build agent-friendly workflow systems for complex domains — turning domain intent into structured DSLs, DAG/IR pipelines, validation loops, executable tools, and human-facing workspaces.
 
-> Systems over intuition.
-> Explanations over predictions.
-> Discipline over noise.
+My current work explores the same pattern across different domains:
+
+* [MyInvestPilot](https://www.myinvestpilot.com): an AI-native investment operating system where strategies are modeled as composable primitives, backtests become observation panels, and decisions can be tracked, explained, and improved.
+* CraftDAG / MinePilot: an agent-friendly Minecraft construction compiler and workspace where build intent becomes ComponentPlan, CraftDAG, VoxelPlan, validation, preview, materials, layers, and schematic export.
+
+> Human-friendly UI is not enough in the agent era. Software also needs agent-friendly workflows.
 
 ---
 
