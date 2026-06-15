@@ -1,7 +1,5 @@
 # Hi, I'm Dawei 👋
 
-Hi, I’m Dawei
-
 I’m a software engineer, independent builder, and systematic investor.
 
 I build agent-friendly workflow systems for complex domains — turning domain intent into structured DSLs, DAG/IR pipelines, validation loops, executable tools, and human-facing workspaces.
@@ -27,11 +25,17 @@ My current work explores the same pattern across different domains:
 
 ### Experiments & ecosystem
 
+* **[CraftDAG](https://github.com/i365dev/CraftDAG)**
+  An agent-friendly Minecraft construction compiler: ComponentPlan DSL → CraftDAG IR → VoxelPlan → validation, materials, layers, and schematic export.
+
+* **[MinePilot](https://www.myminepilot.com)**
+  An agentic Minecraft build workspace powered by CraftDAG — preview, validate, iterate, and export complex structures and automation plans.
+
 * **[free4.chat](https://www.free4.chat)**
   An anonymous WebRTC chat experiment exploring lightweight, real-time social interaction.
 
 * **[bmpi.dev](https://www.bmpi.dev)**
-  My long-form writing on software engineering, AI-native products, investing, and independent building.
+  My long-form writing on software engineering, AI-native products, investing, agent-friendly workflow systems, and independent building.
 
 * **[i365.tech](https://www.i365.tech)**
   A community and consulting space around systems, AI, and personal leverage.
@@ -40,9 +44,11 @@ My current work explores the same pattern across different domains:
 
 ## Current focus
 
+* Agent-friendly workflow systems
 * AI-native investment systems
 * Strategy primitives and rule-based portfolio engines
 * Decision intelligence and human-AI workflows
+* Domain DSLs, DAG/IR pipelines, validation contracts, and repair loops
 * Cloudflare-native serverless architecture
 * Independent product building
 * Long-form technical writing
@@ -50,6 +56,12 @@ My current work explores the same pattern across different domains:
 ---
 
 ## Representative writing
+
+* **[Designing Agent-Friendly Workflows](https://www.bmpi.dev/en/dev/agent-native-system-paradigm/)**
+  My current architecture thesis: complex AI systems need more than chat boxes. They need domain DSLs, IR/DAG pipelines, validation contracts, repair loops, and workflow surfaces that agents can read, write, validate, observe, and repair.
+
+* **[Agent 时代的工作流设计](https://www.bmpi.dev/dev/agent-native-system-paradigm/)**
+  中文版本：通过 MyInvestPilot 和 MinePilot / CraftDAG 两个案例，整理我对 Agent-friendly workflow systems 的理解：Intent → Domain DSL → IR/DAG → Validation → Repair Loop → Execution。
 
 * **[How I Built an AI-Native Quantitative Investment System](https://www.bmpi.dev/en/dev/ai-native-investment-system/)**
   My long-form explanation of how I think about AI-native investment systems, strategy primitives, and machine-readable decision infrastructure.
@@ -63,14 +75,14 @@ For more essays, notes, and annual reflections, visit **[bmpi.dev](https://www.b
 
 ## Tech I often work with
 
-**Languages**
+**Languages**  
 TypeScript · Python · Java · Elixir · Go · Clojure
 
-**Infrastructure**
+**Infrastructure**  
 Cloudflare Workers · R2 · D1 · Durable Objects · Queues · AWS · Docker · PostgreSQL · Redis
 
-**AI / Product**
-LLMs · AI-native workflows · strategy DSLs · automation · SEO · analytics
+**AI / Product**  
+LLMs · Agent-friendly workflows · AI-native systems · Strategy DSLs · Domain DSLs · Automation · SEO · Analytics
 
 ---
 
