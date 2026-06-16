@@ -7,7 +7,7 @@ I build agent-friendly workflow systems for complex domains — turning domain i
 My current work explores the same pattern across different domains:
 
 * [MyInvestPilot](https://www.myinvestpilot.com): an AI-native investment operating system where strategies are modeled as composable primitives, backtests become observation panels, and decisions can be tracked, explained, and improved.
-* [MinePilot](https://www.myminepilot.com): Minecraft build blueprints, schematics, materials, and layer guides — powered by CraftDAG.
+* [CraftDAG](https://github.com/i365dev/CraftDAG): An agent-friendly Minecraft construction compiler: ComponentPlan DSL → CraftDAG IR → VoxelPlan → validation, materials, layers, and schematic export.
 
 > Human-friendly UI is not enough in the agent era. Software also needs agent-friendly workflows.
 
@@ -20,16 +20,13 @@ My current work explores the same pattern across different domains:
 * **[MyInvestPilot](https://www.myinvestpilot.com)**
   An AI-native investment operating system for systematic, rule-based investing.
 
-* **[Chat2Invest](https://chat2invest.com)**
-  An AI research assistant for structured investment analysis.
+* **[MinePilot](https://www.myminepilot.com)**
+  Minecraft build blueprints, schematics, materials, and layer guides — powered by CraftDAG.
 
 ### Experiments & ecosystem
 
-* **[CraftDAG](https://github.com/i365dev/CraftDAG)**
-  An agent-friendly Minecraft construction compiler: ComponentPlan DSL → CraftDAG IR → VoxelPlan → validation, materials, layers, and schematic export.
-
-* **[MinePilot](https://www.myminepilot.com)**
-  An agentic Minecraft build workspace powered by CraftDAG — preview, validate, iterate, and export complex structures and automation plans.
+* **[Chat2Invest](https://chat2invest.com)**
+  An AI research assistant for structured investment analysis.
 
 * **[free4.chat](https://www.free4.chat)**
   An anonymous WebRTC chat experiment exploring lightweight, real-time social interaction.
