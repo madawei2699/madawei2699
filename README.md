@@ -20,7 +20,10 @@ My current work explores the same pattern across different domains:
 * **[MyInvestPilot](https://www.myinvestpilot.com)**
   An AI-native investment operating system for systematic, rule-based investing.
 
-* **[MinePilot](https://www.myminepilot.com)**
+* **[free4.chat](https://www.free4.chat)**
+  A temporary collaboration fabric for Humans and Agents.
+
+* **[myMinePilot](https://www.myminepilot.com)**
   Minecraft build blueprints, schematics, materials, and layer guides — powered by CraftDAG.
 
 ### Experiments & ecosystem
@@ -28,8 +31,8 @@ My current work explores the same pattern across different domains:
 * **[Chat2Invest](https://chat2invest.com)**
   An AI research assistant for structured investment analysis.
 
-* **[free4.chat](https://www.free4.chat)**
-  An anonymous WebRTC chat experiment exploring lightweight, real-time social interaction.
+* **[myMakerPilot](https://mymakerpilot.com/)**
+  Agent-native validated STL/STEP assets for long-tail functional-object demand
 
 * **[bmpi.dev](https://www.bmpi.dev)**
   My long-form writing on software engineering, AI-native products, investing, agent-friendly workflow systems, and independent building.
