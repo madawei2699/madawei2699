@@ -2,95 +2,93 @@
 
 I’m a software engineer, independent builder, and systematic investor.
 
-I build agent-friendly workflow systems for complex domains — turning domain intent into structured DSLs, DAG/IR pipelines, validation loops, executable tools, and human-facing workspaces.
+I build systems around **AI Agents, domain infrastructure, and Human-Agent collaboration**.
 
-My current work explores the same pattern across different domains:
+A recurring theme in my work is the **Domain Harness**: instead of relying on a stronger model alone, give Agents the domain knowledge, tools, state, constraints, and feedback loops they need to work reliably in a real domain.
 
-* [MyInvestPilot](https://www.myinvestpilot.com): an AI-native investment operating system where strategies are modeled as composable primitives, backtests become observation panels, and decisions can be tracked, explained, and improved.
-* [CraftDAG](https://github.com/i365dev/CraftDAG): An agent-friendly Minecraft construction compiler: ComponentPlan DSL → CraftDAG IR → VoxelPlan → validation, materials, layers, and schematic export.
-
-> Human-friendly UI is not enough in the agent era. Software also needs agent-friendly workflows.
+> Better Agents need better environments, not just better models.
 
 ---
 
 ## What I'm building
 
-### Main focus
+### [MyInvestPilot](https://www.myinvestpilot.com)
 
-* **[MyInvestPilot](https://www.myinvestpilot.com)**
-  An AI-native investment operating system for systematic, rule-based investing.
+A transparent, rule-based investment research and portfolio observation system.
 
-* **[free4.chat](https://www.free4.chat)**
-  A temporary collaboration fabric for Humans and Agents.
+It explores how Agents can work with structured strategies, deterministic calculations, backtests, market state, and long-term evidence instead of making opaque investment decisions.
 
-* **[myMinePilot](https://www.myminepilot.com)**
-  Minecraft build blueprints, schematics, materials, and layer guides — powered by CraftDAG.
+### [free4.chat](https://www.free4.chat)
 
-### Experiments & ecosystem
+A temporary collaboration space for **Humans and independently running Agents**.
 
-* **[Chat2Invest](https://chat2invest.com)**
-  An AI research assistant for structured investment analysis.
+Human ↔ Human, Human ↔ Agent, and Agent ↔ Agent can meet in the same short-lived Room, share context and capabilities, collaborate, and leave — without first joining the same permanent workspace or Agent platform.
 
-* **[myMakerPilot](https://mymakerpilot.com/)**
-  Agent-native validated STL/STEP assets for long-tail functional-object demand
+### [myMinePilot](https://www.myminepilot.com)
 
-* **[bmpi.dev](https://www.bmpi.dev)**
-  My long-form writing on software engineering, AI-native products, investing, agent-friendly workflow systems, and independent building.
+Minecraft building blueprints and schematics powered by [CraftDAG](https://github.com/i365dev/CraftDAG).
 
-* **[i365.tech](https://www.i365.tech)**
-  A community and consulting space around systems, AI, and personal leverage.
+CraftDAG explores how an Agent can describe a building at a higher level while deterministic tools compile and validate the final structure.
 
 ---
 
-## Current focus
+## Other projects
 
-* Agent-friendly workflow systems
-* AI-native investment systems
-* Strategy primitives and rule-based portfolio engines
-* Decision intelligence and human-AI workflows
-* Domain DSLs, DAG/IR pipelines, validation contracts, and repair loops
-* Cloudflare-native serverless architecture
+* **[Chat2Invest](https://chat2invest.com)** — AI-assisted investment research.
+* **[myMakerPilot](https://mymakerpilot.com/)** — Agent-native generation and validation of functional 3D assets.
+* **[bmpi.dev](https://www.bmpi.dev)** — Long-form writing on software engineering, AI Agents, investing, and independent building.
+* **[i365.tech](https://www.i365.tech)** — Experiments around AI-native systems, products, and personal leverage.
+
+---
+
+## Current interests
+
+* Domain Harnesses
+* AI Agents and agent-native systems
+* Human-Agent and Agent-Agent collaboration
+* Systematic investing
+* Realtime systems and WebRTC
+* Serverless architecture
 * Independent product building
-* Long-form technical writing
 
 ---
 
 ## Representative writing
 
-* **[Designing Agent-Friendly Workflows](https://www.bmpi.dev/en/dev/agent-native-system-paradigm/)**
-  My current architecture thesis: complex AI systems need more than chat boxes. They need domain DSLs, IR/DAG pipelines, validation contracts, repair loops, and workflow surfaces that agents can read, write, validate, observe, and repair.
+* **[Building a Domain Harness for AI Agents](https://www.bmpi.dev/en/dev/agent-native-system-paradigm/)**
+  Why professional domains need machine-friendly environments around general-purpose Agents — not just stronger models or more tools.
+  Also available in [Chinese](https://www.bmpi.dev/dev/agent-native-system-paradigm/).
 
-* **[Agent 时代的工作流设计](https://www.bmpi.dev/dev/agent-native-system-paradigm/)**
-  中文版本：通过 MyInvestPilot 和 MinePilot / CraftDAG 两个案例，整理我对 Agent-friendly workflow systems 的理解：Intent → Domain DSL → IR/DAG → Validation → Repair Loop → Execution。
+* **[Four Evolutions of a WebRTC Chat Room: From Anonymous Voice to Human-Agent Collaboration](https://www.bmpi.dev/en/dev/free4chat/)**
+  How free4chat evolved through four WebRTC architectures and eventually became a temporary collaboration space for Humans and independent Agents.
+  Also available in [Chinese](https://www.bmpi.dev/dev/free4chat/).
 
 * **[How I Built an AI-Native Quantitative Investment System](https://www.bmpi.dev/en/dev/ai-native-investment-system/)**
-  My long-form explanation of how I think about AI-native investment systems, strategy primitives, and machine-readable decision infrastructure.
+  How MyInvestPilot evolved toward transparent strategies, deterministic engines, reproducible research, and Agent-readable investment infrastructure.
+  Also available in [Chinese](https://www.bmpi.dev/dev/ai-native-investment-system/).
 
-* **[我是如何构建一个 AI 原生量化系统的](https://www.bmpi.dev/dev/ai-native-investment-system/)**
-  中文版本：关于 AI 原生量化系统、策略 DSL、规则化投资与个人长期产品构建的完整复盘。
-
-For more essays, notes, and annual reflections, visit **[bmpi.dev](https://www.bmpi.dev)**.
+More writing at **[bmpi.dev](https://www.bmpi.dev)**.
 
 ---
 
-## Tech I often work with
+## Tech
 
-**Languages**  
-TypeScript · Python · Java · Elixir · Go · Clojure
+**Languages**
+TypeScript · Python · Go · Java · Elixir · Clojure
 
-**Infrastructure**  
-Cloudflare Workers · R2 · D1 · Durable Objects · Queues · AWS · Docker · PostgreSQL · Redis
+**Infrastructure**
+Cloudflare Workers · Durable Objects · WebRTC · AWS · Docker · PostgreSQL · Redis
 
-**AI / Product**  
-LLMs · Agent-friendly workflows · AI-native systems · Strategy DSLs · Domain DSLs · Automation · SEO · Analytics
+**AI / Agent Systems**
+LLMs · Agents · MCP · ACP · Domain Harnesses · DSLs · DAGs · Validation · Automation
 
 ---
 
 ## Find me
 
 * Blog: [bmpi.dev](https://www.bmpi.dev)
-* Product: [myinvestpilot.com](https://www.myinvestpilot.com)
-* Chat: [free4.chat](https://www.free4.chat)
+* Investment: [myinvestpilot.com](https://www.myinvestpilot.com)
+* Collaboration: [free4.chat](https://www.free4.chat)
 * GitHub: [@madawei2699](https://github.com/madawei2699)
 
 ---
